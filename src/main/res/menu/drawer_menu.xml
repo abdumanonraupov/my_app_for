@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="naigathion_view">
+
+    <group android:id="@+id/id_menu">
+
+        <item android:icon="@drawable/pandnoma_icon" android:title="@string/pandnoma" android:id="@+id/id_pandnoma"/>
+        <item android:icon="@drawable/hadis_icon" android:title="@string/hadisho" android:id="@+id/hadisho"/>
+        <item android:icon="@drawable/dua_hands" android:title="@string/dua" android:id="@+id/id_duo"/>
+        <item android:icon="@drawable/kaaba" android:title="@string/qibla" android:id="@+id/id_qibla"/>
+        <item android:icon="@drawable/reading_quran" android:title="@string/qiroat" android:id="@+id/id_qiroat"/>
+
+    </group>
+    <group android:id="@+id/id_qisaho_group">
+        <item android:title="@string/qisaho" android:id="@+id/id_qisaho">
+            <menu>
+                <item android:title="@string/qisahoi_islomi" android:id="@+id/id_qisahoi_islomi"/>
+                <item android:title="@string/qisahoi_tarbiyavi" android:id="@+id/id_qisahoi_tarbiyavi"/>
+                <item android:title="@string/qisahoi_hayoti" android:id="@+id/id_qisahoi_hayoti"/>
+            </menu>
+        </item>
+    </group>
+
+    <group android:id="@+id/id_about_group">
+    <item android:title="@string/about" android:id="@+id/id_about"/>
+</group>
+
+
+
+</menu>

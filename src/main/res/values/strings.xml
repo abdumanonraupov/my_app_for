@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Хидоят ТЧ</string>
+ <string name="khazina">Хазинаи Маърифат</string>
+ <string name="qisaho">Қиссаҳо</string>
+ <string name="qisahoi_hayoti">Қиссаҳои Ҳаёти</string>
+ <string name="qisahoi_tarbiyavi">Қиссаҳои Тарбияви</string>
+ <string name="qisahoi_islomi">Қиссаҳои Исломи</string>
+ <string name="qibla">Қибла</string>
+ <string name="pandnoma">Панднома</string>
+ <string name="hadisho">Ҳадисҳо</string>
+ <string name="qiroat">Қироати Қоҳриҳо</string>
+ <string name="about">Дар бораи барнома</string>
+ <string name="dua">Дуоҳои Муборак</string>
+ <string name="font1">RobotoSlab-VariableFont_wght.ttf</string>
+</resources>
